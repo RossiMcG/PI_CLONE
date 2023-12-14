@@ -8,6 +8,8 @@
 body {
     background-color: white;
     margin: 0;
+    width: 100vw;
+    overflow-x: hidden;
 }
 
 #navbarLogo {
@@ -42,22 +44,72 @@ nav {
 
 #main_hero_image {
     margin: 0px;
-    width: 100%;
+    width: 2500px;
 
+}
+
+#new-product-rollers {
+    margin: 0px;
+    width: 300px;
+    height: 325px;
+}
+
+
+
+#pole_fishing {
+    margin: 0px;
+    width: 300px;
+    height: 325px;
+}
+
+#feeder_fishing {
+    margin: 0px;
+    width: 300px;
+    height: 325px;
+}
+
+
+#float_fishing {
+    margin: 0px;
+    width: 300px;
+    height: 325px;
 }
 
 
 #des_shipp {
-    margin: 0px;
-    width: 80%;
-    align-items: center; 
-    padding: 10%;
+    img.align-center {
+        display: block;
+        margin: 0px auto;}
+        img.medium {
+            width: 250%;
+            height: 250px
+        }
+
+    /* } */
+    /* margin: 0px; */
+    /* align-items: center;  */
+    /* padding: 5%; */
+    /* width: 50vw; */
+    /* height: 40vw; */
+    /* overflow-x: hidden; */
 }
 
 
 #absolutestation {
-    margin: 10px;
-    width: 90%;
+    margin: 0px;
+    width: 100%;
     align-items: center;
     padding: 0%;
 }
+
+
+#footer {
+    background-color: #0081c6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 39px 150px;
+ }
+
+
+
