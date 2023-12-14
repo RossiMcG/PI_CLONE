@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Oswald:wght@200;500;700&family=Work+Sans:wght@100;400;700&display=swap');
+
+* { font-family: 'Work Sans', sans-serif;
+}
+
+
+
+body {
+    background-color: white;
+    margin: 0;
+}
+
+#navbarLogo {
+    height: 30px;
+    align-items: center; 
+    justify-content: center;
+    padding: 6px;
+    
+
+}
+
+
+#navbarLinks a {
+    color: white;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin: 0 5px;
+    letter-spacing: 0px;    
+    width: 10%;
+    justify-content: center;
+}
+
+
+nav {
+    background-color: #0081c6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 39px 150px;
+}
+
+#main_hero_image {
+    margin: 0px;
+    width: 100%;
+
+}
+
+
+#des_shipp {
+    margin: 0px;
+    width: 80%;
+    align-items: center; 
+    padding: 10%;
+}
+
+
+#absolutestation {
+    margin: 10px;
+    width: 90%;
+    align-items: center;
+    padding: 0%;
+}
