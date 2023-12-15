@@ -116,10 +116,14 @@ nav {
 
 #footer {
     background-color: #0081c6;
+    color: white;
+    font-size: 17px;
+    text-transform: uppercase;
+    text-decoration: none;
     display: flex;
-    margin: 60px;
+    margin: 16px;
     padding: 15%;
-    justify-content: center;    
+    justify-content: center;   
 }
 
 
