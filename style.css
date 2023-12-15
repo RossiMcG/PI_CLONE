@@ -85,11 +85,13 @@ nav {
 
 #textsection {
     width: 80%;
+}
 
 
 
 #des_shipp {
     width: 80%
+}
 
 
     /* } */
@@ -103,7 +105,7 @@ nav {
 
 
 #absolutestation {
-    width: 80%
+    width: 80%;
     display: flex;
     margin: 0px;
     padding: 0%;
