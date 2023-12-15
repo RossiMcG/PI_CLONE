@@ -40,11 +40,18 @@ nav {
     justify-content: center;
     align-items: center;
     padding: 39px 150px;
+    flex-direction: column;
 }
+
+
+#textsection {
+    padding: 0 50px;
+}
+
 
 #main_hero_image {
     margin: 0px;
-    width: 2500px;
+    width: 100vw;
 
 }
 
@@ -76,14 +83,14 @@ nav {
 }
 
 
+#textsection {
+    width: 80%;
+
+
+
 #des_shipp {
-    img.align-center {
-        display: block;
-        margin: 0px auto;}
-        img.medium {
-            width: 250%;
-            height: 250px
-        }
+    width: 80%
+
 
     /* } */
     /* margin: 0px; */
@@ -92,24 +99,28 @@ nav {
     /* width: 50vw; */
     /* height: 40vw; */
     /* overflow-x: hidden; */
-}
+
 
 
 #absolutestation {
+    width: 80%
+    display: flex;
     margin: 0px;
-    width: 100%;
-    align-items: center;
     padding: 0%;
+    width: 100%;
+    justify-content: center;
 }
+
+
+
 
 
 footer {
     background-color: #0081c6;
     display: flex;
     justify-content: center;
-    */align-items: center;*/
+    /*align-items: center;*/
     padding: 39px 150px;
- }
-
+    }
 
 
