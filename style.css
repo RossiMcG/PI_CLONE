@@ -114,14 +114,12 @@ nav {
 
 
 
-
-
-footer {
+#footer {
     background-color: #0081c6;
     display: flex;
-    justify-content: center;
-    /*align-items: center;*/
-    padding: 39px 150px;
-    }
+    margin: 60px;
+    padding: 15%;
+    justify-content: center;    
+}
 
 
